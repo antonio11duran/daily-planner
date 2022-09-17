@@ -30,7 +30,9 @@ function activeHour() {
             arrayBox[h].style.backgroundColor = "red";
             arrayBox[i].style.backgroundColor = "green";
         }
-    }}
+    } else if (currentHour <= 8) {
+        arrayBox[h].style.backgroundColor = "green";
+    }};
 }
 
 activeHour();
