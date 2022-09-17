@@ -34,3 +34,10 @@ function activeHour() {
 }
 
 activeHour();
+
+var nineButton = document.getElementById("nineButton");
+nineButton.onclick = saveData;
+
+function saveData() {
+    
+    }
