@@ -28,3 +28,5 @@ Each box has the functionality to type in. This is how a user will plan out thei
 To save what is written, the user has to click the save icon next to the corresponding text box.
 
 ![screenshot of save button](./assets/images/savebutton.png)
+
+Deployed application: https://antonio11duran.github.io/daily-planner/
